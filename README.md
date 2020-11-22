@@ -25,6 +25,6 @@ This project comes from an idea should I buy the new MacBook with new cross-era 
 
 Once I think these two dataset both are reviews of the products. So, the model built by the first dataset can be transferred to predict the sentiment of the second dataset.
 
-After I finished the whole processes, the result turned out to prove that I was wrong. Their features, which are their words in the reviews or tweets don't match at all.
+After I finished the whole processes, the result in [Step 3](https://github.com/hongshenlee/Sentiment-Analysis-Apple-M1/blob/main/Step_3_Predict_Sentiment.ipynb) turned out to prove that I was wrong. Their features, which are their words in the reviews or tweets don't match at all.
 
 What should I do next step？
